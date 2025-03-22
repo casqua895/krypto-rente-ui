@@ -1,11 +1,8 @@
-import CryptoRenteInterface from "./CryptoRenteInterface";
-
 export default function App() {
   return (
-    <main className="min-h-screen bg-gray-100 text-gray-900">
-      <div className="max-w-4xl mx-auto py-10 px-4">
-        <CryptoRenteInterface />
-      </div>
-    </main>
+    <div style={{ padding: "2rem", textAlign: "center" }}>
+      <h1 style={{ fontSize: "2rem", color: "#4CAF50" }}>✅ Es funktioniert!</h1>
+      <p>Dies ist eine Test-Komponente ohne Tailwind.</p>
+    </div>
   );
 }
