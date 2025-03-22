@@ -1,3 +1,3 @@
-# Krypto-Rente UI Roger
+# Krypto-Rente UI
 
-React + Tailwind Interface für deine Krypto-Rentenstrategie 2043.
+Kompaktes Interface zur Visualisierung deiner Krypto-Rentenstrategie 2043.
